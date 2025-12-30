@@ -7,6 +7,15 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.12,<3.14"
+torch = "^2.5.1"
+transformers = "==4.45.2"
+accelerate = "^1.2.1"
+pillow = "^11.0.0"
+torchvision = "^0.24.0"
+matplotlib = "^3.10.0"
+addict = "^2.4.0"
+einops = "^0.8.0"
+numpy = "^2.1.0"
 
 
 [build-system]
