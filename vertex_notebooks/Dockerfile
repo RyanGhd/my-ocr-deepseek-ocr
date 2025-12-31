@@ -10,8 +10,8 @@ RUN python -m pip install --upgrade pip setuptools wheel && \
       addict \
       easydict \
       huggingface_hub \
-      # && \
-    #pip install --no-cache-dir flash-attn==2.7.3 --no-build-isolation
+      accelerate>=0.26.0 && \
+    pip install --no-cache-dir flash-attn==2.7.3 --no-build-isolation
 
 # Download the DeepSeek-OCR model during build (with online mode enabled)
 RUN mkdir -p /opt/models && \
