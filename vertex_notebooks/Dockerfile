@@ -4,13 +4,14 @@ RUN python -m pip install --upgrade pip setuptools wheel && \
     pip install --no-cache-dir \
       torch==2.6.0 \
       torchvision \
-      transformers==4.46.3 \
-      tokenizers==0.20.3 \
+      transformers>=4.47.0 \
+      tokenizers>=0.21.0 \
       einops \
       addict \
       easydict \
       huggingface_hub \
-      accelerate>=0.26.0 && \
+      accelerate>=0.26.0 \
+      bitsandbytes>=0.45.0 && \
     pip install --no-cache-dir flash-attn==2.7.3 --no-build-isolation
 
 # Download the DeepSeek-OCR model during build (with online mode enabled)
