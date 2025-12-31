@@ -19,12 +19,15 @@ tokenizer = AutoTokenizer.from_pretrained(
     local_files_only=True
 )
 
+# Use 'eager' attention instead of 'flash_attention_2' for non-Ampere GPUs (T4, V100, etc.)
+# Options: 'eager' (standard), 'sdpa' (scaled dot product), 'flash_attention_2' (Ampere+ only)
 model = AutoModel.from_pretrained(
     model_path, 
-    _attn_implementation='flash_attention_2', 
+    attn_implementation='eager', 
     trust_remote_code=True, 
     use_safetensors=True,
-    local_files_only=True
+    local_files_only=True,
+    torch_dtype=torch.bfloat16
 )
 
 model = model.eval().cuda().to(torch.bfloat16)
