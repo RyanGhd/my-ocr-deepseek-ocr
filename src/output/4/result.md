@@ -1,0 +1,133 @@
+
+**NUTRITION INFORMATION**
+
+
+SERVINGS PER PACK: 10
+
+
+SERVING SIZE: 20mL
+
+
+**AVG. QTY %DIFFER** **AVG. QTY**
+
+
+**PER SERVING** **SERVE** **PER 100mL**
+
+
+ENERGY 287kJ (67Cal) 3% 1400kJ (336Cal)
+
+
+PROTEIN 0.5g 1% 2.3g
+
+
+FAT, TOTAL 7.1g 10% 35.4g
+
+
+-SATURATED 4.7g 20% 23.6g
+
+
+CARBOHYDRATE 0.6g <1% 3.1g
+
+
+-SUGARS 0.6g 1% 3.1g
+
+
+SODIUM 7mg <1% 34mg
+
+
+*PERCENTAGE DAILY INTAKES ARE BASED ON AVERAGE ADULT DIET OF 8700kJ. YOUR DAILY INTAKES MAY BE HIGHER OR LOWER
+
+
+DEPENDING ON YOUR ENERGY NEEDS.
+
+
+PASTEURISED THICK CREAM
+
+
+INGREDIENTS: FRESH CREAM (MILK), THICKENERS (PECTIN, CARRAGEENAN). **CONTAINS: MILK.**
+
+
+CONTAINS NO LESS THAN 35% MILK FAT.
+
+
+KEEP REFRIGERATED AT OR BELOW 4°C.
+
+
+**Made in Australia**
+
+![](images/0.jpg)
+
+
+
+**from at least 99%**
+
+![](images/1.jpg)
+
+
+
+**Australian ingredients**
+
+![](images/2.jpg)
+
+
+![](images/3.jpg)
+
+
+![](images/4.jpg)
+
+
+
+**Scrunch**
+
+
+**into ball**
+
+
+EXPORTING TO THE
+
+
+FRESH N NATURAL
+
+
+PTE LTD. 14 CHIN B
+
+
+SINGAPORE, 61982
+
+
+USE BY (DD/MM/YY
+
+
+此日期或之前
+
+
+MANUFACTURED
+
+
+PRODUCTS PTY.
+
+
+TRADING AS BU
+
+
+91-149 FOREST'S
+
+
+AUSTRALIA. REI
+
+
+BULLA IS A REI
+
+
+OF REGAL CRE
+
+
+**ENQUIRIES**
+
+
+**1800 001 33**
+
+
+www.bulla.cc
+
+![](images/5.jpg)
